@@ -1,2 +1,2 @@
-s This is my new project
+This is my new project
 
